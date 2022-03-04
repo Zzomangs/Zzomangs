@@ -29,9 +29,6 @@ I'm trying to study every day.📖
 
 <br/>
 <br/>
-<hr/>
-<br/>
-<br/>
 
 
 ### Skills 💪💪💪
