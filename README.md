@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there!👋👋👋
 Welcome to my GitHub<br/><br/>
-I used to work as a brand designer. 🔭<br/>
+I used to work as a brand designer.💾<br/>
 Currently working as a markup developer, web designer, and front-end developer.⚡ <br/>
-I'm trying to study every day.📖
+I'm trying to study every day.📕
 <br/>
 <br/>
 
@@ -58,7 +58,7 @@ I'm trying to study every day.📖
 <br/>
 <br/>
 
-### Learning 📖📖📖
+### Learning 📕📕📕
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-09D3AC.svg?&style=for-the-badge&logo=React&logoColor=white)
