@@ -53,7 +53,7 @@ I'm trying to study every day.📖
 
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![SorceTree](https://img.shields.io/badge/Sorce%20Tree-0052CC.svg?&style=for-the-badge&logo=Sorce%20Tree&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC.svg?&style=for-the-badge&logo=Sourcetree&logoColor=white)
 
 <br/>
 <br/>
