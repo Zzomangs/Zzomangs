@@ -35,7 +35,7 @@ I'm trying to study every day.📖
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e.svg?&style=for-the-badge&logo=Javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=black)
+![JQuery](https://img.shields.io/badge/JQuery-0769AD.svg?&style=for-the-badge&logo=JQuery&logoColor=white)
 </br>
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -60,6 +60,6 @@ I'm trying to study every day.📖
 
 ### Learning 📖📖📖
 
-![NodeJs](https://img.shields.io/badge/Node%20JS-339933.svg?&style=for-the-badge&logo=Node%20Js&logoColor=white)
-![React](https://img.shields.io/badge/React-09D3AC.svg?&style=for-the-badge&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-09D3AC.svg?&style=for-the-badge&logo=React&logoColor=white)
 
