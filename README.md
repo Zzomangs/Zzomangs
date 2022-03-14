@@ -58,7 +58,7 @@ I'm trying to study every day.📕
 <br/>
 <br/>
 
-### Learning 📕📕📕
+### Learning 🚲🚲🚲
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-09D3AC.svg?&style=for-the-badge&logo=React&logoColor=white)
